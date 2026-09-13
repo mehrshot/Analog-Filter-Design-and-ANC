@@ -1,6 +1,6 @@
 # Analog Front-End Design & Signal Processing
 
-**Authors:** Mehrshad Arshad & Mahshad Ghodousi
+**Authors:** Mehrshad Arshad & Mahshad Ghoddousi
 
 This repository contains a comprehensive three-part analog IC design and signal processing project. It spans state-variable active filter synthesis, phase/delay engineering for Active Noise Cancellation (ANC), and high-frequency transistor modeling (MOSFET/BJT) with RF impedance matching.
 
@@ -11,7 +11,7 @@ This repository contains a comprehensive three-part analog IC design and signal 
 ## Project Team & Contributions
 This was a collaborative two-person project:
 * **Mehrshad Arshad:** Lead designer for **Part I** (Sharif Analog Filter Synthesis & Notch Filter) and **Part III** (High-Frequency Transistor Amplifiers & RF Matching).
-* **Mahshad Ghodousi:** Lead designer for **Part II** (Phase Engineering & Active Noise Cancellation System).
+* **Mahshad Ghoddousi:** Lead designer for **Part II** (Phase Engineering & Active Noise Cancellation System).
 
 ## Project Breakdown & Key Results
 
