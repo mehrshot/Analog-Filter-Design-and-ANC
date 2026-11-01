@@ -4,6 +4,7 @@
 
 This repository contains a comprehensive three-part analog IC design and signal processing project. It spans state-variable active filter synthesis, phase/delay engineering for Active Noise Cancellation (ANC), and high-frequency transistor modeling (MOSFET/BJT) with RF impedance matching.
 
+
 ## Technologies Used
 * **Simulation:** LTspice, MATLAB/Simulink
 * **Concepts:** Laplace/KCL derivations, Bode analysis, Group Delay Engineering, Miller Effect, High-Frequency Small-Signal Modeling, RF Impedance Matching.
